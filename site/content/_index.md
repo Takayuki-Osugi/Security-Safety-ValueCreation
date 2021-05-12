@@ -16,9 +16,6 @@ products:
   - image: img/illustrations-tutorials.svg
     text: デジタルトランスフォーメーション(DX)に関する研究部門
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: 所長あいさつ
+  text: 本研究所では，様々な分野の研究者が連携し，実験やフィールドワーク， 統計的調査などの科学的な手法を組み合わせ，複眼的な視点で問題を検討します。
 ---
